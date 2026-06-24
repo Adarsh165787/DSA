@@ -20,9 +20,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Adarsh165787/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Adarsh165787/DSA/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adarsh165787/DSA/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Adarsh165787/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
