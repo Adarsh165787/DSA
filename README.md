@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -19,6 +20,7 @@
 | [0141-linked-list-cycle](https://github.com/Adarsh165787/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh165787/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
