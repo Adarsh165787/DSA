@@ -86,4 +86,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh165787/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
