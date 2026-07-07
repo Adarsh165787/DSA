@@ -35,6 +35,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh165787/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/Adarsh165787/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
