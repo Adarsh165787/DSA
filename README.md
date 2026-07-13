@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Adarsh165787/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
