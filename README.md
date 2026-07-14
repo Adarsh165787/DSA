@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh165787/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Adarsh165787/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Adarsh165787/DSA/tree/master/0061-rotate-list) |
@@ -67,6 +68,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -76,6 +78,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Adarsh165787/DSA/tree/master/1291-sequential-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
