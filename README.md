@@ -9,6 +9,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adarsh165787/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adarsh165787/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adarsh165787/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
