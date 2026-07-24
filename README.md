@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -72,6 +73,7 @@
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -118,6 +120,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
