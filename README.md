@@ -14,6 +14,7 @@
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Adarsh165787/DSA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Adarsh165787/DSA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adarsh165787/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Adarsh165787/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Adarsh165787/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
