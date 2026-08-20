@@ -81,6 +81,7 @@
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -178,6 +179,7 @@
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adarsh165787/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
@@ -185,6 +187,7 @@
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adarsh165787/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
