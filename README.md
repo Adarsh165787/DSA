@@ -80,6 +80,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh165787/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
