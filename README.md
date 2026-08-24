@@ -82,6 +82,7 @@
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
@@ -182,6 +183,7 @@
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adarsh165787/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
@@ -203,9 +205,18 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
