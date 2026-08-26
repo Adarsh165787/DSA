@@ -7,6 +7,7 @@
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh165787/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh165787/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
