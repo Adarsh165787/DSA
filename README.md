@@ -82,6 +82,7 @@
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh165787/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh165787/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
@@ -172,6 +173,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh165787/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Data Stream
@@ -187,6 +189,7 @@
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh165787/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh165787/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/Adarsh165787/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
