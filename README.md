@@ -35,6 +35,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh165787/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh165787/DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -97,6 +98,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarsh165787/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh165787/DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adarsh165787/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -122,6 +124,7 @@
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Adarsh165787/DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh165787/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
