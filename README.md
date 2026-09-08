@@ -8,6 +8,7 @@
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh165787/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh165787/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh165787/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -229,6 +230,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh165787/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarsh165787/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Adarsh165787/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh165787/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adarsh165787/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh165787/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Matrix
@@ -280,4 +282,5 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh165787/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Adarsh165787/DSA/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
