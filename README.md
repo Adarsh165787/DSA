@@ -75,6 +75,7 @@
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarsh165787/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Adarsh165787/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -211,6 +214,7 @@
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarsh165787/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Data Stream
 |  |
 | ------- |
