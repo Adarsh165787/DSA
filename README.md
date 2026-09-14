@@ -83,6 +83,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh165787/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Adarsh165787/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarsh165787/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh165787/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh165787/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
