@@ -90,6 +90,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adarsh165787/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh165787/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Adarsh165787/DSA/tree/master/0120-triangle) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adarsh165787/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
