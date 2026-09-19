@@ -184,6 +184,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/Adarsh165787/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adarsh165787/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarsh165787/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh165787/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -337,5 +338,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Adarsh165787/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adarsh165787/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
