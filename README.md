@@ -15,6 +15,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh165787/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adarsh165787/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adarsh165787/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
