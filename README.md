@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh165787/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Adarsh165787/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Adarsh165787/DSA/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0516-longest-palindromic-subsequence) |
