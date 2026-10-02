@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Adarsh165787/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Adarsh165787/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Adarsh165787/DSA/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh165787/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
@@ -357,4 +359,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
