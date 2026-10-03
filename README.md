@@ -8,6 +8,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Adarsh165787/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Adarsh165787/DSA/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh165787/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adarsh165787/DSA/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Adarsh165787/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh165787/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
@@ -360,6 +363,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
