@@ -125,6 +125,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Adarsh165787/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Adarsh165787/DSA/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
+| [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -306,6 +308,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adarsh165787/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh165787/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Adarsh165787/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
