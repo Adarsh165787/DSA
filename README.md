@@ -16,6 +16,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh165787/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Adarsh165787/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh165787/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Adarsh165787/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh165787/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adarsh165787/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -37,6 +38,7 @@
 | [0735-asteroid-collision](https://github.com/Adarsh165787/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Adarsh165787/DSA/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh165787/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -252,6 +254,7 @@
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Adarsh165787/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarsh165787/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh165787/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Data Stream
@@ -375,6 +378,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Adarsh165787/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh165787/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
