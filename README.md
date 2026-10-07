@@ -10,6 +10,7 @@
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Adarsh165787/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Adarsh165787/DSA/tree/master/0567-permutation-in-string) |
@@ -332,6 +333,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
@@ -383,4 +385,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
