@@ -156,6 +156,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh165787/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh165787/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Adarsh165787/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh165787/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
