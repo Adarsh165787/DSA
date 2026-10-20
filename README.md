@@ -154,6 +154,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarsh165787/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adarsh165787/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Adarsh165787/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh165787/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adarsh165787/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh165787/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh165787/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -343,6 +345,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Adarsh165787/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adarsh165787/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarsh165787/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh165787/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Knapsack Problem
 |  |
