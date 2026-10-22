@@ -121,6 +121,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh165787/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarsh165787/DSA/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Adarsh165787/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adarsh165787/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -271,6 +272,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adarsh165787/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh165787/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Adarsh165787/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Adarsh165787/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -292,6 +294,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Adarsh165787/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh165787/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Adarsh165787/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adarsh165787/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh165787/DSA/tree/master/0064-minimum-path-sum) |
