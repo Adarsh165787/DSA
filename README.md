@@ -25,6 +25,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adarsh165787/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adarsh165787/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh165787/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Adarsh165787/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh165787/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh165787/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -227,6 +228,7 @@
 | [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Adarsh165787/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adarsh165787/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/Adarsh165787/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh165787/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarsh165787/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh165787/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
