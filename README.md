@@ -141,6 +141,7 @@
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh165787/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Adarsh165787/DSA/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh165787/DSA/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Adarsh165787/DSA/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh165787/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Adarsh165787/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adarsh165787/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/Adarsh165787/DSA/tree/master/2409-count-days-spent-together) |
