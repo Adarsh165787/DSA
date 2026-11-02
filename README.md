@@ -106,6 +106,7 @@
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Adarsh165787/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh165787/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh165787/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -145,6 +146,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh165787/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Adarsh165787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Adarsh165787/DSA/tree/master/0518-coin-change-ii) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh165787/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarsh165787/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Adarsh165787/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh165787/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Adarsh165787/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh165787/DSA/tree/master/0904-fruit-into-baskets) |
@@ -220,6 +223,7 @@
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh165787/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adarsh165787/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -262,6 +266,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
 |  |
@@ -351,6 +356,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh165787/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adarsh165787/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarsh165787/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Adarsh165787/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
