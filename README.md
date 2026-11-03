@@ -65,6 +65,7 @@
 | [0141-linked-list-cycle](https://github.com/Adarsh165787/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh165787/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh165787/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Adarsh165787/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh165787/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -141,6 +142,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh165787/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Adarsh165787/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Adarsh165787/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh165787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh165787/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -179,6 +181,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -194,6 +197,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Adarsh165787/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh165787/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -222,6 +226,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Adarsh165787/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/Adarsh165787/DSA/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh165787/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -266,6 +271,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh165787/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Adarsh165787/DSA/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh165787/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
@@ -494,4 +500,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh165787/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarsh165787/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
